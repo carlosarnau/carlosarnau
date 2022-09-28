@@ -35,7 +35,8 @@
 
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/adobe-premiere-pro--v1.png"/>
 
-<p>&nbsp;</p>
+<br>
+<br>
 <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosarnau)](https://github.com/anuraghazra/github-readme-stats)
