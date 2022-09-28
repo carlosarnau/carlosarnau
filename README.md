@@ -7,7 +7,7 @@
 
 ## How to reach me 📫
 [<img align="left" alt="carlosarnau | Twitter" width="30px" src="https://img.icons8.com/color/344/twitter--v1.png" />][twitter]
-[<img align="left" alt="carlosarnau | Instagram" width="25px" src="https://img.icons8.com/color/344/artstation.png" />][artstation]
+[<img align="left" alt="carlosarnau | Instagram" width="30px" src="https://img.icons8.com/color/344/artstation.png" />][artstation]
 [<img align="left" alt="carlosarnau | Discord" width="30px" src="https://img.icons8.com/color/344/discord-logo.png" />][discord]
 [<img align="left" alt="carlosarnau | Twitch" width="30px" src="https://img.icons8.com/color/344/twitch--v1.png" />][twitch]
 [<img align="left" alt="carlosarnau | Spotify" width="30px" src="https://img.icons8.com/color/344/spotify--v1.png" />][spotify]
@@ -46,6 +46,6 @@
   
 [twitter]: https://twitter.com/carlosarnau01
 [artstation]: https://www.artstation.com/carlosarnau
-[discord]: discordapp.com/users/Twynics#0392
+[discord]: discordapp.com/users/Twynics0392
 [twitch]: https://www.twitch.tv/twynics
 [spotify]: https://open.spotify.com/user/g6okcvf6f80b35vbqboaf7mkn?si=6326ac00aaf14648
