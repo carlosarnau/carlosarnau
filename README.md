@@ -37,7 +37,6 @@
 
 <p>&nbsp;</p>
 <br>
-<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosarnau)](https://github.com/anuraghazra/github-readme-stats)
   
