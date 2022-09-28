@@ -46,6 +46,6 @@
   
 [twitter]: https://twitter.com/carlosarnau01
 [artstation]: https://www.artstation.com/carlosarnau
-[discord]: discordapp.com/users/Twynics0392
+[discord]: https://discord.gg/Twynics#0392
 [twitch]: https://www.twitch.tv/twynics
 [spotify]: https://open.spotify.com/user/g6okcvf6f80b35vbqboaf7mkn?si=6326ac00aaf14648
