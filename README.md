@@ -12,7 +12,7 @@
 <br>
 <br>
 
-## I'm learning 🪄
+## I'm learning... 🪄
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/c-programming.png"/>
 
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/c-sharp-logo.png"/>
@@ -35,6 +35,7 @@
 
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/adobe-premiere-pro--v1.png"/>
 
+<br>
 <br>
 <br>
 <br>
