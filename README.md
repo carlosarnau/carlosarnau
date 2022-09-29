@@ -7,7 +7,7 @@
 
 ## How to reach me 📫
 [<img align="left" alt="carlosarnau | Twitter" width="30px" src="https://img.icons8.com/color/344/twitter--v1.png" />][twitter]
-[<img align="left" alt="carlosarnau | Instagram" width="30px" src="https://img.icons8.com/color/344/artstation.png" />][artstation]
+[<img align="left" alt="carlosarnau | Artstation" width="30px" src="https://img.icons8.com/color/344/artstation.png" />][artstation]
 [<img align="left" alt="carlosarnau | Discord" width="30px" src="https://img.icons8.com/color/344/discord-logo.png" />][discord]
 [<img align="left" alt="carlosarnau | Twitch" width="30px" src="https://img.icons8.com/color/344/twitch--v1.png" />][twitch]
 [<img align="left" alt="carlosarnau | Spotify" width="30px" src="https://img.icons8.com/color/344/spotify--v1.png" />][spotify]
@@ -21,6 +21,8 @@
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/c-sharp-logo.png"/>
 
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/c-plus-plus-logo.png"/>
+
+<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/flutter.png"/>
 
 <br>
 <br>
