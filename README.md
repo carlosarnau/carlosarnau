@@ -32,6 +32,8 @@
 ## Tools I use 🔧
 <img align="left" alt= "C++" width = "30px" src = "https://img.icons8.com/color/344/github--v1.png"/>
 
+<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/unity.png"/>
+
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/visual-studio--v2.png"/>
 
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/autodesk-maya.png"/>
