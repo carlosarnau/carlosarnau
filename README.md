@@ -13,6 +13,7 @@
 [<img align="left" alt="carlosarnau | Spotify" width="30px" src="https://img.icons8.com/color/344/spotify--v1.png" />][spotify]
 
 <br>
+<br>
 
 ## I'm learning... 🪄
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/c-programming.png"/>
@@ -25,6 +26,7 @@
 
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/dart.png"/>
 
+<br>
 <br>
 
 ## Tools I use 🔧
@@ -43,7 +45,7 @@
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/adobe-premiere-pro--v1.png"/>
 
 <p>&nbsp;</p>
-<br>
+<p>&nbsp;</p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosarnau)](https://github.com/anuraghazra/github-readme-stats)
   
