@@ -2,7 +2,7 @@
 
 - 🌱 Studying Videogame Design and Development at TTC(UPC).
 - ✈️ Looking to travel around the world.
-- 💬 Ask me about anything you want!
+- 💬 Ask me about anything you want! <br>
 
 
 ## How to reach me 📫
@@ -12,7 +12,6 @@
 [<img align="left" alt="carlosarnau | Twitch" width="30px" src="https://img.icons8.com/color/344/twitch--v1.png" />][twitch]
 [<img align="left" alt="carlosarnau | Spotify" width="30px" src="https://img.icons8.com/color/344/spotify--v1.png" />][spotify]
 
-<br>
 <br>
 
 ## I'm learning... 🪄
@@ -26,7 +25,6 @@
 
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/dart.png"/>
 
-<br>
 <br>
 
 ## Tools I use 🔧
@@ -45,7 +43,7 @@
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/adobe-premiere-pro--v1.png"/>
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosarnau)](https://github.com/anuraghazra/github-readme-stats)
   
