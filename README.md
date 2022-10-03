@@ -2,10 +2,10 @@
 
 - 🌱 Studying Videogame Design and Development at TTC(UPC).
 - ✈️ Looking to travel around the world.
-- 💬 Ask me about anything you want! <br>
+- 💬 Ask me about anything you want!
 
 
-## How to reach me 📫
+## Contact me 📫
 [<img align="left" alt="carlosarnau | Twitter" width="30px" src="https://img.icons8.com/color/344/twitter--v1.png" />][twitter]
 [<img align="left" alt="carlosarnau | Artstation" width="30px" src="https://img.icons8.com/color/344/artstation.png" />][artstation]
 [<img align="left" alt="carlosarnau | Discord" width="30px" src="https://img.icons8.com/color/344/discord-logo.png" />][discord]
