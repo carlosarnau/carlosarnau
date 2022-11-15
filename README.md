@@ -47,6 +47,8 @@
 
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/visual-studio--v2.png"/>
 
+<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/288/visual-studio-code-2019.png"/>
+
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/autodesk-maya.png"/>
 
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/adobe-photoshop--v1.png"/>
