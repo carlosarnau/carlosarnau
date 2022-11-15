@@ -1,5 +1,4 @@
 # Hi there, I'm Carlos! 👋🏽
-
 - 🌱 Studying Videogame Design and Development at CITM(UPC).
 - ✈️ Looking to travel around the world.
 - 🕹️ Interested in getting an Internship in the video games industry.
@@ -26,6 +25,7 @@
 <br>
 <br>
 
+
 ## I'm learning... 🧠
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/c-programming.png"/>
 
@@ -39,6 +39,7 @@
 
 <br>
 <br>
+
 
 ## Tools I use 🔧
 <img align="left" alt= "C++" width = "30px" src = "https://img.icons8.com/color/344/github--v1.png"/>
@@ -60,8 +61,11 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosarnau)](https://github.com/anuraghazra/github-readme-stats)
-  
+
+
+
 [twitter]: https://twitter.com/carlosarnau01
 [artstation]: https://www.artstation.com/carlosarnau
 [discord]: https://discord.com/users/Twynics#0392
