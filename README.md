@@ -17,11 +17,11 @@
 
 [<img align="left" alt="carlosarnau | Twitch" width="30px" src="https://github.com/carlosarnau/carlosarnau/blob/119c734476a11677cd559afc11df36d37dea5bc2/logos/twitch.png" />][twitch]
 
-[<img align="left" alt="carlosarnau | Spotify" width="30px" src="https://github.com/carlosarnau/carlosarnau/blob/48d40813c816d185d8d4fc4f7234b448854705f3/logos/spotify.png" />][spotify]
-
 [<img align="left" alt="carlosarnau | Youtube" width="30px" src="https://github.com/carlosarnau/carlosarnau/blob/119c734476a11677cd559afc11df36d37dea5bc2/logos/youtube.png" />][youtube]
 
 [<img align="left" alt="carlosarnau | Steam" width="30px" src="https://github.com/carlosarnau/carlosarnau/blob/daed5c66947f7e89353f798cb79dfb0f925ff6bf/logos/steam.png" />][steam]
+
+[<img align="left" alt="carlosarnau | Spotify" width="30px" src="https://github.com/carlosarnau/carlosarnau/blob/48d40813c816d185d8d4fc4f7234b448854705f3/logos/spotify.png" />][spotify]
 
 <br>
 <br>
