@@ -1,4 +1,4 @@
-# Hi there, I'm Carlos! 👋🏽
+# Hi there, I'm Carlos! 👋🏼
 - 🌱 Studying Videogame Design and Development at CITM(UPC).
 - ✈️ Looking to travel around the world.
 - 🕹️ Interested in getting an Internship in the video games industry.
