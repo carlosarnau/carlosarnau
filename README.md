@@ -1,5 +1,5 @@
 # Hi there, I'm Carlos! 👋🏼
-- 🌱 Studying Videogame Design and Development at CITM(UPC).
+- 🌱 Studying Video game Design and Development at CITM(UPC).
 - ✈️ Looking to travel around the world.
 - 🕹️ Interested in getting an Internship in the video games industry.
 - 💬 Ask me about anything you want!
@@ -66,7 +66,7 @@
 
 
 
-[twitter]: https://twitter.com/carlosarnau01
+[twitter]: https://twitter.com/_carlosarnau
 [artstation]: https://www.artstation.com/carlosarnau
 [discord]: https://discord.com/users/Twynics#0392
 [twitch]: https://www.twitch.tv/twynics
