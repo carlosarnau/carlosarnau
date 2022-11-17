@@ -4,6 +4,8 @@
 - 🕹️ Interested in getting an Internship in the video games industry.
 - 💬 Ask me about anything you want!
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=carlosarnau&left_color=blue&right_color=black)
+
 
 ## My socials 🌐
 [<img align="left" alt="carlosarnau | LinkedIn" width="30px" src="https://img.icons8.com/color/288/linkedin-2--v1.png" />][linkedin]
@@ -63,9 +65,6 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosarnau)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-<br>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=carlosarnau&left_color=blue&right_color=black)
 
 
 [twitter]: https://twitter.com/_carlosarnau
