@@ -64,7 +64,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosarnau)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=carlosarnau)
+<br>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=carlosarnau&left_color=blue&right_color=black)
 
 
 [twitter]: https://twitter.com/_carlosarnau
