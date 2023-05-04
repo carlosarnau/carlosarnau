@@ -12,6 +12,8 @@
 
 [<img align="left" alt="carlosarnau | Twitter" width="35px" src="https://img.icons8.com/color/288/twitter--v1.png" />][twitter]
 
+[<img align="left" alt="carlosarnau | Instagram" width="35px" src="https://img.icons8.com/color/480/null/instagram-new--v1.png" />][instagram]
+
 [<img align="left" alt="carlosarnau | Discord" width="30px" src="https://img.icons8.com/color/344/discord-logo.png" />][discord]
 
 [<img align="left" alt="carlosarnau | Twitch" width="30px" src="https://github.com/carlosarnau/carlosarnau/blob/119c734476a11677cd559afc11df36d37dea5bc2/logos/twitch.png" />][twitch]
@@ -69,6 +71,7 @@
 [artstation]: https://www.artstation.com/carlosarnau
 [discord]: https://discord.com/users/Twynics#0392
 [twitch]: https://www.twitch.tv/twynics
+[instagram]: https://instagram.com/_xaarly
 [spotify]: https://open.spotify.com/user/g6okcvf6f80b35vbqboaf7mkn?si=6326ac00aaf14648
 [linkedin]: https://www.linkedin.com/in/carlosarnau/
 [youtube]: https://www.youtube.com/channel/UCWuitUlL9ueCcHhXzXE2x9A
