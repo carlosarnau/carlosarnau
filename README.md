@@ -1,7 +1,10 @@
 # Hi there, I'm Carlos! 👋🏼
 🗡️ Studying Video Game Design and Development at CITM(UPC).
+<br>
 ✈️ Looking to travel around the world.
+<br>
 🕹️ Interested in getting an Internship in the video games industry.
+<br>
 💬 Ask me about anything you want!
 
 
