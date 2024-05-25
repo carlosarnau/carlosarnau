@@ -6,13 +6,13 @@
 
 
 ## My socials 🌐
-[<img align="left" alt="carlosarnau | LinkedIn" width="30px" src="https://img.icons8.com/color/288/linkedin-2--v1.png" />][linkedin]
+[<img align="left" alt="carlosarnau | LinkedIn" width="30px" src="https://img.icons8.com/color/344/linkedin-2--v1.png" />][linkedin]
 
 [<img align="left" alt="carlosarnau | Artstation" width="30px" src="https://img.icons8.com/color/344/artstation.png" />][artstation]
 
-[<img align="left" alt="carlosarnau | Twitter" width="35px" src="https://img.icons8.com/color/288/twitter--v1.png" />][twitter]
+[<img align="left" alt="carlosarnau | Twitter" width="35px" src="https://img.icons8.com/color/344/twitter--v1.png" />][twitter]
 
-[<img align="left" alt="carlosarnau | Instagram" width="35px" src="https://img.icons8.com/color/480/null/instagram-new--v1.png" />][instagram]
+[<img align="left" alt="carlosarnau | Instagram" width="30px" src="https://img.icons8.com/color/344/null/instagram-new--v1.png" />][instagram]
 
 [<img align="left" alt="carlosarnau | Discord" width="30px" src="https://img.icons8.com/color/344/discord-logo.png" />][discord]
 
@@ -44,13 +44,13 @@
 
 
 ## Tools I use 🔧
-<img align="left" alt= "C++" width = "30px" src = "https://img.icons8.com/color/344/github--v1.png"/>
+<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/github--v1.png"/>
 
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/unity.png"/>
 
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/visual-studio--v2.png"/>
 
-<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/288/visual-studio-code-2019.png"/>
+<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/visual-studio-code-2019.png"/>
 
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/autodesk-maya.png"/>
 
