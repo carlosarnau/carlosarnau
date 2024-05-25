@@ -6,15 +6,15 @@
 
 
 ## My socials 🌐
-[<img align="left" alt="carlosarnau | LinkedIn" width="30px" src="https://img.icons8.com/color/344/linkedin-2--v1.png" />][linkedin]
+[<img align="left" alt="carlosarnau | LinkedIn" width="30px" src="https://img.icons8.com/color/480/linkedin-2--v1.png" />][linkedin]
 
-[<img align="left" alt="carlosarnau | Artstation" width="30px" src="https://img.icons8.com/color/344/artstation.png" />][artstation]
+[<img align="left" alt="carlosarnau | Artstation" width="30px" src="https://img.icons8.com/color/480/artstation.png" />][artstation]
 
-[<img align="left" alt="carlosarnau | Twitter" width="35px" src="https://img.icons8.com/color/344/twitter--v1.png" />][twitter]
+[<img align="left" alt="carlosarnau | Twitter" width="35px" src="https://img.icons8.com/color/480/twitter--v1.png" />][twitter]
 
-[<img align="left" alt="carlosarnau | Instagram" width="30px" src="https://img.icons8.com/color/344/null/instagram-new--v1.png" />][instagram]
+[<img align="left" alt="carlosarnau | Instagram" width="30px" src="https://img.icons8.com/color/480/null/instagram-new--v1.png" />][instagram]
 
-[<img align="left" alt="carlosarnau | Discord" width="30px" src="https://img.icons8.com/color/344/discord-logo.png" />][discord]
+[<img align="left" alt="carlosarnau | Discord" width="30px" src="https://img.icons8.com/color/480/discord-logo.png" />][discord]
 
 [<img align="left" alt="carlosarnau | Twitch" width="30px" src="https://github.com/carlosarnau/carlosarnau/blob/119c734476a11677cd559afc11df36d37dea5bc2/logos/twitch.png" />][twitch]
 
@@ -29,36 +29,36 @@
 
 
 ## I'm learning... 🧠
-<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/c-programming.png"/>
+<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/480/c-programming.png"/>
 
-<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/c-sharp-logo.png"/>
+<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/480/c-sharp-logo.png"/>
 
-<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/c-plus-plus-logo.png"/>
+<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/480/c-plus-plus-logo.png"/>
 
-<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/flutter.png"/>
+<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/480/flutter.png"/>
 
-<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/dart.png"/>
+<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/480/dart.png"/>
 
 <br>
 <br>
 
 
 ## Tools I use 🔧
-<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/github--v1.png"/>
+<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/480/github--v1.png"/>
 
-<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/unity.png"/>
+<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/480/unity.png"/>
 
-<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/visual-studio--v2.png"/>
+<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/480/visual-studio--v2.png"/>
 
-<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/visual-studio-code-2019.png"/>
+<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/480/visual-studio-code-2019.png"/>
 
-<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/autodesk-maya.png"/>
+<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/480/autodesk-maya.png"/>
 
-<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/adobe-photoshop--v1.png"/>
+<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/480/adobe-photoshop--v1.png"/>
 
-<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/adobe-illustrator--v1.png"/>
+<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/480/adobe-illustrator--v1.png"/>
 
-<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/adobe-premiere-pro--v1.png"/>
+<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/480/adobe-premiere-pro--v1.png"/>
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
