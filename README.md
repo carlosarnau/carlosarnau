@@ -1,7 +1,7 @@
 # Hi there, I'm Carlos! 👋🏼
-- 🗡️ Studying Video Game Design and Development at CITM(UPC).
+- 🗡️ Live Ops Intern at Gameloft Barcelona.
 - ✈️ Looking to travel around the world.
-- 🕹️ Interested in getting an Internship in the video games industry.
+- 🕹️ Eager to grow in the video game industry.
 - 💬 Ask me about anything you want!
 
 
