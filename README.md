@@ -1,5 +1,5 @@
 # Hi there, I'm Carlos! 👋🏼
-- 🗡️ Live Ops Intern at Gameloft Barcelona.
+- 🗡️ Live Ops Specialist | Game Designer | Level Designer | Game Tester
 - 🕹️ Eager to grow in the video game industry.
 - ✈️ Looking to travel around the world.
 - 💬 Ask me about anything you want!
